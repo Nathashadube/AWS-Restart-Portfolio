@@ -24,7 +24,7 @@ AWS SimuLearn: File Systems in the Cloud is an immersive, simulation-based learn
 
 ## Skills Demonstrated
 
-By completing this SimuLearn, the recipient has demonstrated proficiency in:
+By completing this SimuLearn, I have demonstrated proficiency in:
 
 - Understanding cloud file storage architectures on AWS
 - Working with AWS-managed file system services (such as Amazon EFS, Amazon FSx)
