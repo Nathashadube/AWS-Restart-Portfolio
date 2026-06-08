@@ -1,19 +1,7 @@
 # Internet Protocol Troubleshooting Commands Lab Report
 
-## Student Name
-_________________________
-
-## Student Number
-_________________________
-
-## Module
-_________________________
-
 ## Practical Title
 Internet Protocol (IP) Troubleshooting Commands Lab
-
-## Date
-_________________________
 
 ---
 
