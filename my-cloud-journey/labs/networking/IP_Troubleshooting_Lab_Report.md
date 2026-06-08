@@ -59,7 +59,7 @@ The `ping` command was used to test network connectivity between the EC2 instanc
 
 ### Screenshot Evidence
 
-<img src="restart/labs/Capture2.PNG">
+<img src="restart/labs/Capture2.PNG" width="1366" height="768">
 
 ### Results
 
