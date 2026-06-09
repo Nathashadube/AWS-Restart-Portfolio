@@ -1,21 +1,7 @@
 # Troubleshooting a Network Issue Lab Report
 
-# Troubleshooting a Network Issue Lab Report
-
-## Student Name
-_________________________
-
-## Student Number
-_________________________
-
-## Module
-_________________________
-
 ## Practical Title
 Troubleshooting a Network Issue in Amazon EC2
-
-## Date
-_________________________
 
 ---
 
